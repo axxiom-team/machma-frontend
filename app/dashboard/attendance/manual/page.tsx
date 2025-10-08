@@ -17,7 +17,7 @@ type StudentDetails = {
   last_name: string;
   email: string;
   mobile_no: string;
-  attendance?: any[]; // same as your class-based response
+  attendance?: any[]; // same as your class-based response by chanupa
 };
 
 export default function AllStudentsAttendance() {
